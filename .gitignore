@@ -1,0 +1,16 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Office temp files
+~$*
